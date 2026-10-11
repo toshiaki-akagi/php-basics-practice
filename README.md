@@ -29,3 +29,7 @@ COACHTECH 教材 Tutorial 7-1「PHPの基礎 ハンズオン演習」で作成�
 - コメント機能で何のためのコードなのかを書くことで、各コードの意味を分かりやすく記録
 - 「変数の定義」「演算」「結果表示」の場所を明確にしてそれぞれ改行を入れるなどすることで、各コードの集まりの役割を分かりやすくした
 - 行のコピペや「Shift+Alt+↓」などにより似たコードを複製することでコードの記述時間を短縮した
+
+## 動作確認のスクリーンショット
+![price_calculator.phpの実行結果](price_calculator_image.png)
+![discount_calculator.phpの実行結果](discount_calculator_image.png)
