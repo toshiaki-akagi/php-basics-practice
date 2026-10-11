@@ -16,7 +16,7 @@ COACHTECH 教材 Tutorial 7-1「PHPの基礎 ハンズオン演習」で作成�
 ## 動作確認
 1. php-practiceディレクトリ上でDocker composeによりnginxコンテナとphpコンテナを起動させてネットワークで連携
 2. VSCode上でPHPファイルを編集して保存
-3. ブラウザで「http://localhost:8000/7-1-6_hands-on/practice/price_calculator.php」のURLにアクセス
+3. ブラウザで「`http://localhost:8000/7-1-6_hands-on/practice/price_calculator.php`」のURLにアクセス
 4. ブラウザ上で表示内容を確認
 5. VSCodeでの編集を保存+ブラウザのリロードで編集内容を確認
 
